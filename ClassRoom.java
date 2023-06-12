@@ -1,9 +1,4 @@
 
-/*
- * Create another class Classroom with an instance method getAverageClassGrade(students) that takes a list of Student objects and returns the average grade of the class. Create a few Student objects and pass them to the getAverageClassGrade() method 
-   to get the average grade of the class.
-
- */
 package com.nit.jun12;
 
 public class ClassRoom {
